@@ -1,0 +1,13 @@
+ Volume in drive T is Data
+ Volume Serial Number is 6CE6-E542
+
+ Directory of t:\
+
+10.09.2024  18:58    <DIR>          .
+10.09.2024  18:08    <DIR>          git
+10.09.2024  18:58             2ÿ816 ip.txt
+10.09.2024  18:30               268 tree.txt
+10.09.2024  18:51                18 variant.txt
+10.09.2024  19:00                 0 zmist.txt
+               4 File(s)          3ÿ102 bytes
+               2 Dir(s)  203ÿ889ÿ713ÿ152 bytes free

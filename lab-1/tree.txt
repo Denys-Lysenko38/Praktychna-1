@@ -1,0 +1,15 @@
+Folder PATH listing for volume Data
+Volume serial number is 6CE6-E542
+T:\
+L---git
+    +---Art
+    ¦   +---JPG
+    ¦   L---PNG
+    +---Books
+    ¦   +---DOC
+    ¦   +---PDF
+    ¦   L---TXT
+    L---movies
+        +---MOV
+        +---MP4
+        L---MPEG4
